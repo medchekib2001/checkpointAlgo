@@ -1,0 +1,29 @@
+Algorithm Count
+
+Var  
+ i,j,w : integer;
+ Ph:string;
+ Begin 
+
+c:=1;
+v:=0;
+w:=0;
+Write ("write the sentence with a point in the end");
+Read (ph);
+While  ( Ph[c] <>'.') Do
+
+      if ((ph[c]= char):=true)
+            
+            if (ph[c] = 'a' OR ph[c] = 'e' OR ph[c] = 'i' OR ph[c] = 'o' OR ph[c] = 'u' OR ph[c] = 'y' )
+            v:=v+1;
+            end-if
+         c:=c+1;
+      end if 
+      else w=w+1;
+end While
+
+Write (c);
+Write (v);
+Write (w);
+End While
+end
