@@ -1,0 +1,25 @@
+Algorithm Count
+
+Var 
+ i,j,w : integer
+ Begin 
+
+i:=0
+j:=0
+w:=0
+
+While  ( Ph[i] <>'.') Do
+
+      if ((ph[i]= char):=true)
+      j:=j+1
+      
+      if (ph[i] = 'a' OR ph[i] = 'e' OR ph[i] = 'i' OR ph[i] = 'o' OR ph[i] = 'u' OR ph[i] = 'y' )
+      v:=v+1
+      end if)
+     end if )
+else w=w+1
+Write (i);
+Write (j);
+Write (w);
+
+end
